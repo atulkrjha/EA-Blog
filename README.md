@@ -1,1 +1,1 @@
-# EA-Blog
+# EA-Blog Readme
